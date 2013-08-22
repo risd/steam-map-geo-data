@@ -1,0 +1,12 @@
+.DS_Store
+.penv
+*.shp
+*.dbf
+*.prj
+*.shx
+*.shn
+*.sbn
+*.sbx
+*.txt
+*.geojson
+*.json
